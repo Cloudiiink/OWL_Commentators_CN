@@ -12,3 +12,11 @@
 
 **数据来源**: B 站数据利用 [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) 中 API 搜集, 解说排班及比分为手动整理.
 
+---
+## 2022/09/04
+
+- 更新来自 `liquipedia` 的比赛数据以及对 wikipedia 格式的解析
+- 新增最近半月数据
+
+
+
