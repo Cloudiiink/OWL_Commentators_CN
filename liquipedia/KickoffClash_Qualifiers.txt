@@ -1,0 +1,1544 @@
+==Match Summary==
+{{Toggle group start|state=hide}}
+{{box|start|padding=4em}}
+====={{HiddenSort|Week 1}}=====
+<section begin="Week 1"/>
+{{MatchListStart|title=Week 1 Matches - Played Online|width=425px |hide=false}}
+{{MatchMaps
+|date=May 5, 2022 - West
+|team1=nye|games1=1
+|team2=gla|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 5, 2022 - 12:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Lijiang Tower|map1score=1-2|map1win=2
+|map2=Midtown|map2score=0-2|map2win=2
+|map3=Circuit Royal|map3score=3-2|map3win=1
+|map4=New Queen Street|map4score=71.89-103.57|map4win=2
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/4HC6Ev_dlyI?t=234
+|vodgame2=https://youtu.be/4HC6Ev_dlyI?t=1613
+|vodgame3=https://youtu.be/4HC6Ev_dlyI?t=3233
+|vodgame4=https://youtu.be/4HC6Ev_dlyI?t=5011
+|mvp=Kevster
+|owl=38971
+|overgg=15902
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=sfs|games1=3
+|team2=par|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 5, 2022 - 22:30 {{Abbr/CEST}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=Dorado|map3score=3-2|map3win=1
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/yvKxJDFTM1g?t=209
+|vodgame2=https://youtu.be/yvKxJDFTM1g?t=1241
+|vodgame3=https://youtu.be/yvKxJDFTM1g?t=2801
+|vodgame4=
+|mvp=FiNN
+|owl=38972
+|overgg=15903
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=fla|games1=1
+|team2=atl|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 5, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|map1=Lijiang Tower|map1score=2-1|map1win=1
+|map2=Eichenwalde|map2score=4-5|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=0-1|map3win=2
+|map4=Colosseo|map4score=23.78-84.44|map4win=2
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/WlraZeOQjko?t=354
+|vodgame2=https://youtu.be/WlraZeOQjko?t=1658
+|vodgame3=https://youtu.be/WlraZeOQjko?t=3559
+|vodgame4=https://youtu.be/WlraZeOQjko?t=4533
+|mvp=UltraViolet
+|owl=38973
+|overgg=15904
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 6, 2022 - West
+|team1=ldn|games1=0
+|team2=sfs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 6, 2022 - 12:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Eichenwalde|map2score=1-2|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=1-3|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/4jRmZ_Pfkgg?t=235
+|vodgame2=https://youtu.be/4jRmZ_Pfkgg?t=1132
+|vodgame3=https://youtu.be/4jRmZ_Pfkgg?t=2629
+|vodgame4=
+|mvp=s9mm
+|owl=38975
+|overgg=15908
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=bos|games1=3
+|team2=van|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 6, 2022 - 13:30 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Midtown|map2score=2-3|map2win=2
+|map3=Circuit Royal|map3score=1-0|map3win=1
+|map4=Colosseo|map4score=65.97-68.28|map4win=2
+|map5=Oasis|map5score=2-1|map5win=1
+|vodgame1=https://youtu.be/1awkkMqGq0g?t=231
+|vodgame2=https://youtu.be/1awkkMqGq0g?t=1615
+|vodgame3=https://youtu.be/1awkkMqGq0g?t=3304
+|vodgame4=https://youtu.be/1awkkMqGq0g?t=4574
+|vodgame5=https://youtu.be/1awkkMqGq0g?t=6600
+|mvp=Punk
+|owl=38974
+|overgg=15907
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 7, 2022 - West
+|team1=tor|games1=1
+|team2=was|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 7, 2022 - 15:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Midtown|map2score=1-2|map2win=2
+|map3=Circuit Royal|map3score=1-2|map3win=2
+|map4=New Queen Street|map4score=62.89-64.94|map4win=2
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/1awkkMqGq0g?t=6600
+|vodgame2=https://youtu.be/xoZyW1snW34?t=1246
+|vodgame3=https://youtu.be/xoZyW1snW34?t=2640
+|vodgame4=https://youtu.be/xoZyW1snW34?t=3945
+|mvp=Happy
+|owl=38977
+|overgg=15913
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=atl|games1=3
+|team2=nye|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 7, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=Route 66|map3score=3-2|map3win=1
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/QcjBJN20Krc?t=249
+|vodgame2=https://youtu.be/QcjBJN20Krc?t=1165
+|vodgame3=https://youtu.be/QcjBJN20Krc?t=2590
+|vodgame4=
+|mvp=Hawk
+|owl=38978
+|overgg=15914
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=bos|games1=1
+|team2=gla|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 7, 2022 - 15:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Ilios|map1score=0-2|map1win=2
+|map2=Eichenwalde|map2score=2-1|map2win=1
+|map3=Watchpoint: Gibraltar|map3score=2-3|map3win=2
+|map4=Colosseo|map4score=65.97-69.49|map4win=2
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/aKs4kkXHDHw?t=384
+|vodgame2=https://youtu.be/aKs4kkXHDHw?t=1453
+|vodgame3=https://youtu.be/aKs4kkXHDHw?t=2815
+|vodgame4=https://youtu.be/aKs4kkXHDHw?t=4274
+|mvp=Reiner
+|owl=38979
+|overgg=15915
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 8, 2022 - West
+|team1=ldn|games1=3
+|team2=van|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 8, 2022 - 12:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|map1=Oasis|map1score=2-1|map1win=1
+|map2=King's Row|map2score=2-1|map2win=1
+|map3=Route 66|map3score=2-1|map3win=1
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/s9LoKi8Elf0?t=214
+|vodgame2=https://youtu.be/s9LoKi8Elf0?t=1555
+|vodgame3=https://youtu.be/s9LoKi8Elf0?t=2974
+|vodgame4=
+|mvp=Hadi
+|owl=38980
+|overgg=15918
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=par|games1=1
+|team2=fla|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 8, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Oasis|map1score=1-2|map1win=2
+|map2=Midtown|map2score=2-1|map2win=1
+|map3=Circuit Royal|map3score=1-2|map3win=2
+|map4=New Queen Street|map4score=18.46-123.40|map4win=2
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/kwpG5jEEgW8?t=258
+|vodgame2=https://youtu.be/kwpG5jEEgW8?t=1566
+|vodgame3=https://youtu.be/kwpG5jEEgW8?t=3022
+|vodgame4=https://youtu.be/kwpG5jEEgW8?t=6388
+|mvp=SirMajed
+|owl=38981
+|overgg=15919
+|pf=
+|wl=
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}<br>Florida initally captured all three points on [[Circuit Royal]], but were required to re-do their attack after they used an illegal maneuver.
+}}
+}}
+{{MatchMaps
+|team1=was|games1=0
+|team2=dal|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 8, 2022 - 17:00 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Eichenwalde|map2score=2-3|map2win=2
+|map3=Route 66|map3score=0-1|map3win=2
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/n-zdvTMU-ZM?t=238
+|vodgame2=https://youtu.be/n-zdvTMU-ZM?t=1218
+|vodgame3=https://youtu.be/n-zdvTMU-ZM?t=2697
+|vodgame4=
+|mvp=Edison
+|owl=38982
+|overgg=15920
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=tor|games1=3
+|team2=hou|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 8, 2022 - 18:30 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Lijiang Tower|map1score=2-1|map1win=1
+|map2=King's Row|map2score=4-5|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=0-1|map3win=2
+|map4=New Queen Street|map4score=76.13-38.15|map4win=1
+|map5=Ilios|map5score=2-0|map5win=1
+|vodgame1=https://youtu.be/HRZxny1wFsM?t=241
+|vodgame2=https://youtu.be/HRZxny1wFsM?t=1510
+|vodgame3=https://youtu.be/HRZxny1wFsM?t=3045
+|vodgame4=https://youtu.be/HRZxny1wFsM?t=4338
+|vodgame5=https://youtu.be/HRZxny1wFsM?t=5230
+|mvp=MuZe
+|owl=38983
+|overgg=15921
+|pf=
+|wl=
+}}
+}}
+{{MatchListEnd}}
+{{MatchListStart|title=Week 1 Match hosted by [[Houston Outlaws]]<br><small>At the [https://www.techportcenter.com/ Tech Port Arena, San Antonio]</small>|width=425px |hide=false}}
+{{MatchMaps
+|date=May 6, 2022 - West
+|team1=dal|games1=0
+|team2=hou|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 6, 2022 - 17:00 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|ZP|flag=us}} & {{player|Avast|flag=us}}
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=Midtown|map2score=2-3|map2win=2
+|map3=Dorado|map3score=1-2|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/DWy2-qj9PtM?t=1037
+|vodgame2=https://youtu.be/DWy2-qj9PtM?t=1037
+|vodgame3=https://youtu.be/DWy2-qj9PtM?t=3826
+|vodgame4=
+|mvp=Danteh
+|owl=38976
+|overgg=15909
+|pf=
+|wl=
+}}
+}}
+{{MatchListEnd}}
+<section end="Week 1"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 2}}=====
+<section begin="Week 2"/>
+{{MatchListStart|title=Week 2 Matches - Played Online|width=425px |hide=false}}
+{{MatchMaps
+|date=May 13, 2022 - West
+|team1=fla|games1=3
+|team2=van|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 13, 2022 - 12:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Colosseo|map1score=140.00-0.00|map1win=1
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=King's Row|map3score=3-0|map3win=1
+|map4=Oasis|map4score=|map4win=skip
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=https://youtu.be/Ohy-Mx-oGkE?t=313
+|vodgame2=https://youtu.be/Ohy-Mx-oGkE?t=1288
+|vodgame3=https://youtu.be/Ohy-Mx-oGkE?t=2673
+|vodgame4=
+|mvp=Checkmate
+|owl=38984
+|overgg=15924
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=sfs|games1=3
+|team2=hou|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 13, 2022 - 15:30 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|VikkiKitty|flag=us}} & {{player|Nekkra|flag=us}}
+|map1=New Queen Street|map1score=140.00-24.75|map1win=1
+|map2=Circuit Royal|map2score=2-1|map2win=1
+|map3=Midtown|map3score=1-3|map3win=2
+|map4=Ilios|map4score=2-1|map4win=1
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/eVYHgzQZLOs?t=225
+|vodgame2=https://youtu.be/eVYHgzQZLOs?t=1061
+|vodgame3=https://youtu.be/eVYHgzQZLOs?t=2330
+|vodgame4=https://youtu.be/eVYHgzQZLOs?t=3919
+|mvp=FiNN
+|owl=38985
+|overgg=15925
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=atl|games1=0
+|team2=was|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 13, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|VikkiKitty|flag=us}} & {{player|Nekkra|flag=us}}
+|map1=Colosseo|map1score=32.56-74.16|map1win=2
+|map2=Dorado|map2score=0-3|map2win=2
+|map3=Eichenwalde|map3score=4-5|map3win=2
+|map4=Oasis|map4score=|map4win=skip
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=https://youtu.be/Dj1q247Bq44?t=193
+|vodgame2=https://youtu.be/Dj1q247Bq44?t=1136
+|vodgame3=https://youtu.be/Dj1q247Bq44?t=2210
+|vodgame4=
+|mvp=Decay
+|owl=38986
+|overgg=15926
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 14, 2022 - West
+|team1=ldn|games1=3
+|team2=bos|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 14, 2022 - 15:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|map1=Colosseo|map1score=58.89-62.14|map1win=2
+|map2=Route 66|map2score=5-3|map2win=1
+|map3=Midtown|map3score=3-1|map3win=1
+|map4=Lijiang Tower|map4score=2-0|map4win=1
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=https://youtu.be/k2Q6iaXhHuo?t=215
+|vodgame2=https://youtu.be/k2Q6iaXhHuo?t=1279
+|vodgame3=https://youtu.be/k2Q6iaXhHuo?t=3412
+|vodgame4=https://youtu.be/k2Q6iaXhHuo?t=4983
+|mvp=SparkR
+|owl=38987
+|overgg=15930
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=dal|games1=3
+|team2=gla|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 14, 2022 - 13:30 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Colosseo|map1score=58.35-59.10|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=3-4|map2win=2
+|map3=Eichenwalde|map3score=3-1|map3win=1
+|map4=Ilios|map4score=2-1|map4win=1
+|map5=New Queen Street|map5score=98.52-72.05|map5win=1
+|vodgame1=https://youtu.be/B6lcDVVCZBw?t=241
+|vodgame2=https://youtu.be/B6lcDVVCZBw?t=1168
+|vodgame3=https://youtu.be/B6lcDVVCZBw?t=2862
+|vodgame4=https://youtu.be/B6lcDVVCZBw?t=2862
+|vodgame5=https://youtu.be/B6lcDVVCZBw?t=5310
+|mvp=Hanbin
+|owl=38988
+|overgg=15931
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=van|games1=1
+|team2=nye|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 14, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=New Queen Street|map1score=64.43-64.36|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=0-1|map2win=2
+|map3=Eichenwalde|map3score=0-1|map3win=2
+|map4=Lijiang Tower|map4score=1-2|map4win=2
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/MMvRtV73xtI?t=229
+|vodgame2=https://youtu.be/MMvRtV73xtI?t=1183
+|vodgame3=https://youtu.be/MMvRtV73xtI?t=2087
+|vodgame4=https://youtu.be/MMvRtV73xtI?t=3352
+|mvp=Yaki
+|owl=38989
+|overgg=15932
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 15, 2022 - West
+|team1=hou|games1=3
+|team2=fla|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 15, 2022 - 15:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|map1=Colosseo|map1score=71.83-52.61|map1win=1
+|map2=Route 66|map2score=1-2|map2win=2
+|map3=King's Row|map3score=3-2|map3win=1
+|map4=Lijiang Tower|map4score=0-2|map4win=2
+|map5=New Queen Street|map5score=57.19-57.18|map5win=1
+|vodgame1=https://youtu.be/WBRaeSDJHw8?t=220
+|vodgame2=https://youtu.be/WBRaeSDJHw8?t=1166
+|vodgame3=https://youtu.be/WBRaeSDJHw8?t=2580
+|vodgame4=https://youtu.be/WBRaeSDJHw8?t=4116
+|vodgame5=https://youtu.be/WBRaeSDJHw8?t=5049
+|mvp=Pelican
+|owl=38990
+|overgg=15935
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=sfs|games1=3
+|team2=nye|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 15, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=New Queen Street|map1score=90.50-33.63|map1win=1
+|map2=Dorado|map2score=3-1|map2win=1
+|map3=King's Row|map3score=4-5|map3win=2
+|map4=Oasis|map4score=2-0|map4win=1
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/8Ke2NSfGbBI?t=262
+|vodgame2=https://youtu.be/8Ke2NSfGbBI?t=1172
+|vodgame3=https://youtu.be/8Ke2NSfGbBI?t=2549
+|vodgame4=https://youtu.be/8Ke2NSfGbBI?t=4315
+|mvp=Proper
+|owl=38991
+|overgg=15936
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=par|games1=0
+|team2=tor|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 15, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=New Queen Street|map1score=18.57-102.23|map1win=2
+|map2=Route 66|map2score=1-2|map2win=2
+|map3=Eichenwalde|map3score=0-3|map3win=2
+|map4=Oasis|map4score=|map4win=skip
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/ZZzuIGDt2TU?t=265
+|vodgame2=https://youtu.be/ZZzuIGDt2TU?t=1196
+|vodgame3=https://youtu.be/ZZzuIGDt2TU?t=2607
+|vodgame4=
+|mvp=Finale
+|owl=38992
+|overgg=15937
+|pf=
+|wl=
+}}
+}}
+{{MatchListEnd}}
+<section end="Week 2"/>
+
+{{Box|break|padding=4em}}
+
+====={{HiddenSort|Week 3}}=====
+<section begin="Week 3"/>
+{{MatchListStart|title=Week 3 Matches - Played Online|width=425px |hide=false}}
+{{MatchMaps
+|date=May 20, 2022 - East
+|team1=phi|games1=3
+|team2=shd|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 18:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|map1=New Queen Street|map1score=63.35-46.30|map1win=1
+|map2=Circuit Royal|map2score=1-0|map2win=1
+|map3=King's Row|map3score=5-4|map3win=1
+|map4=Ilios|map4score=|map4win=skip
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/bMEVOLFpNwQ?t=257
+|vodgame2=https://youtu.be/bMEVOLFpNwQ?t=1232
+|vodgame3=https://youtu.be/bMEVOLFpNwQ?t=2415
+|vodgame4=
+|mvp=ZEST
+|owl=39011
+|overgg=16158
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=val|games1=1
+|team2=gzc|games2=3
+|winner=1
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 04:30 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|map1=Colosseo|map1score=82.08-121.51|map1win=2
+|map2=Route 66|map2score=1-0|map2win=1
+|map3=Eichenwalde|map3score=1-2|map3win=2
+|map4=Ilios|map4score=1-2|map4win=2
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=https://youtu.be/0nVQxc5zrAs?t=232
+|vodgame2=https://youtu.be/0nVQxc5zrAs?t=1231
+|vodgame3=https://youtu.be/0nVQxc5zrAs?t=2085
+|vodgame4=https://youtu.be/0nVQxc5zrAs?t=3576
+|mvp=Farway1987
+|owl=39016
+|overgg=16159
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=seo|games1=1
+|team2=hzs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 21:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|VikkiKitty|flag=us}} & {{player|Tridd|flag=uk}}
+|map1=New Queen Street|map1score=45.28-107.05|map1win=2
+|map2=Dorado|map2score=3-1|map2win=1
+|map3=Midtown|map3score=2-3|map3win=2
+|map4=Ilios|map4score=1-2|map4win=2
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=https://youtu.be/5jbrlp0q_x8?t=205
+|vodgame2=https://youtu.be/5jbrlp0q_x8?t=1127
+|vodgame3=https://youtu.be/5jbrlp0q_x8?t=2633
+|vodgame4=https://youtu.be/5jbrlp0q_x8?t=4075
+|mvp=AlphaYi
+|owl=39017
+|overgg=16160
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 20, 2022 - West
+|team1=was|games1=3
+|team2=par|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 21:00 {{Abbr/CEST}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=King's Row|map2score=5-4|map2win=1
+|map3=Watchpoint: Gibraltar|map3score=2-3|map3win=2
+|map4=Colosseo|map4score=85.31-27.75|map4win=1
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/oBXCVIl3XV0?t=305
+|vodgame2=https://youtu.be/oBXCVIl3XV0?t=1354
+|vodgame3=https://youtu.be/oBXCVIl3XV0?t=3185
+|vodgame4=https://youtu.be/oBXCVIl3XV0?t=4727
+|mvp=Decay
+|owl=38993
+|overgg=15940
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=nye|games1=0
+|team2=fla|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|map1=Ilios|map1score=0-2|map1win=2
+|map2=Eichenwalde|map2score=0-2|map2win=2
+|map3=Dorado|map3score=4-5|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/TFUqdmujA5A?t=1318
+|vodgame2=https://youtu.be/TFUqdmujA5A?t=2503
+|vodgame3=https://youtu.be/TFUqdmujA5A?t=3819
+|vodgame4=
+|mvp=Someone
+|owl=38994
+|overgg=15941
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=dal|games1=3
+|team2=tor|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 20, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=King's Row|map2score=3-2|map2win=1
+|map3=Circuit Royal|map3score=1-0|map3win=1
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/-pnUVvFeeTM?t=256
+|vodgame2=https://youtu.be/-pnUVvFeeTM?t=1375
+|vodgame3=https://youtu.be/-pnUVvFeeTM?t=3094
+|vodgame4=
+|mvp=ChiYo
+|owl=38995
+|overgg=15942
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 21, 2022 - East
+|team1=gzc|games1=0
+|team2=cdh|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 18:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Colosseo|map1score=65.97-65.98|map1win=2
+|map2=Dorado|map2score=0-3|map2win=2
+|map3=King's Row|map3score=0-3|map3win=2
+|map4=Oasis|map4score=|map4win=skip
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=https://youtu.be/bhRbqsxOO6w?t=244
+|vodgame2=https://youtu.be/bhRbqsxOO6w?t=1204
+|vodgame3=https://youtu.be/bhRbqsxOO6w?t=2452
+|vodgame4=
+|mvp=Jinmu
+|owl=39012
+|overgg=16161
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=hzs|games1=2
+|team2=shd|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 19:30 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Colosseo|map1score=92.48-84.45|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=2-3|map2win=2
+|map3=Eichenwalde|map3score=1-2|map3win=2
+|map4=Lijiang Tower|map4score=2-1|map4win=1
+|map5=New Queen Street|map5score=55.11-100.19|map5win=2
+|vodgame1=https://youtu.be/n0abPXtujeI?t=217
+|vodgame2=https://youtu.be/n0abPXtujeI?t=1468
+|vodgame3=https://youtu.be/n0abPXtujeI?t=3016
+|vodgame4=https://youtu.be/n0abPXtujeI?t=4522
+|vodgame5=https://youtu.be/n0abPXtujeI?t=5807
+|mvp=LIP
+|owl=39027
+|overgg=16162
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=val|games1=2
+|team2=seo|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 22:00 {{Abbr/KST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Colosseo|map1score=72.52-51.31|map1win=1
+|map2=Circuit Royal|map2score=2-3|map2win=2
+|map3=King's Row|map3score=3-0|map3win=1
+|map4=Lijiang Tower|map4score=0-2|map4win=2
+|map5=New Queen Street|map5score=42.33-124.90|map5win=2
+|vodgame1=https://youtu.be/x_G-19iN7LU?t=180
+|vodgame2=https://youtu.be/x_G-19iN7LU?t=1105
+|vodgame3=https://youtu.be/x_G-19iN7LU?t=2541
+|vodgame4=https://youtu.be/x_G-19iN7LU?t=3861
+|vodgame5=https://youtu.be/x_G-19iN7LU?t=4729
+|mvp=Profit
+|owl=39025
+|overgg=16163
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 21, 2022 - West
+|team1=hou|games1=3
+|team2=ldn|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 20:00 {{Abbr/BST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Eichenwalde|map2score=3-1|map2win=1
+|map3=Circuit Royal|map3score=4-3|map3win=1
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/m1AK5je5v_c?t=252
+|vodgame2=https://youtu.be/m1AK5je5v_c?t=1246
+|vodgame3=https://youtu.be/m1AK5je5v_c?t=2482
+|vodgame4=
+|mvp=Lastro
+|owl=38996
+|overgg=15946
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=gla|games1=2
+|team2=sfs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 13:30 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Oasis|map1score=2-1|map1win=1
+|map2=Midtown|map2score=3-2|map2win=1
+|map3=Route 66|map3score=2-3|map3win=2
+|map4=Colosseo|map4score=37.94-87.42|map4win=2
+|map5=Lijiang Tower|map5score=1-2|map5win=2
+|vodgame1=https://youtu.be/ZzELux9NyU8?t=333
+|vodgame2=https://youtu.be/ZzELux9NyU8?t=1530
+|vodgame3=https://youtu.be/ZzELux9NyU8?t=2974
+|vodgame4=https://youtu.be/ZzELux9NyU8?t=4558
+|vodgame5=https://youtu.be/ZzELux9NyU8?t=5466
+|mvp=FiNN
+|owl=38997
+|overgg=15947
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=tor|games1=3
+|team2=bos|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 21, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Eichenwalde|map2score=2-1|map2win=1
+|map3=Dorado|map3score=3-1|map3win=1
+|map4=New Queen Street|map4score=67.37-66.23|map4win=1
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/v8CpW0bBWy8?t=260
+|vodgame2=https://youtu.be/v8CpW0bBWy8?t=1288
+|vodgame3=https://youtu.be/v8CpW0bBWy8?t=2833
+|vodgame4=https://youtu.be/v8CpW0bBWy8?t=4310
+|mvp=HOTBA
+|owl=38998
+|overgg=15948
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 22, 2022 - East
+|team1=gzc|games1=0
+|team2=phi|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 06:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=Dorado|map2score=1-3|map2win=2
+|map3=Watchpoint: Gibraltar|map3score=0-3|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=https://youtu.be/mjFAFw8r_jE?t=204
+|vodgame2=https://youtu.be/mjFAFw8r_jE?t=1202
+|vodgame3=https://youtu.be/mjFAFw8r_jE?t=2734
+|vodgame4=
+|mvp=ZEST
+|owl=39029
+|overgg=16179
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=seo|games1=3
+|team2=cdh|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 19:30 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=2-1|map1win=1
+|map2=Eichenwalde|map2score=6-3|map2win=1
+|map3=Route 66|map3score=1-0|map3win=1
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/Vt403h7-xWs?t=796
+|vodgame2=https://youtu.be/Vt403h7-xWs?t=2186
+|vodgame3=https://youtu.be/Vt403h7-xWs?t=4320
+|vodgame4=
+|mvp=Vindaim
+|owl=39028
+|overgg=16180
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=hzs|games1=3
+|team2=val|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 06:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=King's Row|map2score=3-1|map2win=1
+|map3=Dorado|map3score=1-2|map3win=2
+|map4=Colosseo|map4score=108.71-67.55|map4win=1
+|map5=Oasis|map5score=2-0|map5win=1
+|vodgame1=https://youtu.be/1QdEizU3qFE?t=413
+|vodgame2=https://youtu.be/1QdEizU3qFE?t=1374
+|vodgame3=https://youtu.be/1QdEizU3qFE?t=2774
+|vodgame4=https://youtu.be/1QdEizU3qFE?t=4122
+|vodgame5=https://youtu.be/1QdEizU3qFE?t=5130
+|mvp=AlphaYi
+|owl=39015
+|overgg=16181
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 22, 2022 - West
+|team1=van|games1=0
+|team2=atl|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 15:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=1-2|map1win=2
+|map2=Midtown|map2score=1-3|map2win=2
+|map3=Route 66|map3score=0-3|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/Cn0cqUSqt88?t=310
+|vodgame2=https://youtu.be/Cn0cqUSqt88?t=1578
+|vodgame3=https://youtu.be/Cn0cqUSqt88?t=2913
+|vodgame4=
+|mvp=Ojee
+|owl=38999
+|overgg=15951
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=dal|games1=3
+|team2=par|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 22:30 {{Abbr/CEST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Midtown|map2score=1-0|map2win=1
+|map3=Circuit Royal|map3score=5-4|map3win=1
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=https://youtu.be/xFcPtru1kM4?t=260
+|vodgame2=https://youtu.be/xFcPtru1kM4?t=1300
+|vodgame3=https://youtu.be/xFcPtru1kM4?t=2168
+|vodgame4=
+|mvp=Hanbin
+|owl=39000
+|overgg=15952
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=was|games1=1
+|team2=bos|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 22, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Oasis|map1score=0-2|map1win=2
+|map2=King's Row|map2score=0-2|map2win=2
+|map3=Circuit Royal|map3score=1-0|map3win=1
+|map4=New Queen Street|map4score=0-1|map4win=2
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=https://youtu.be/hZPQ5P2dd6M?t=220
+|vodgame2=https://youtu.be/hZPQ5P2dd6M?t=1248
+|vodgame3=https://youtu.be/hZPQ5P2dd6M?t=2544
+|vodgame4=https://youtu.be/hZPQ5P2dd6M?t=3502
+|mvp=Valentine
+|owl=39001
+|overgg=15953
+|pf=
+|wl=
+}}
+}}
+{{MatchListEnd}}
+<section end="Week 3"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 4}}=====
+<section begin="Week 4"/>
+
+{{MatchListStart|title=Week 4 Matches - Played Online|width=425px |hide=false}}
+{{MatchMaps
+|date=May 26, 2022 - East
+|team1=phi|games1=0
+|team2=seo|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 26, 2022 - 19:00 {{Abbr/KST}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|finished=true
+|map1=Lijiang Tower|map1score=1-2|map1win=2
+|map2=Dorado|map2score=2-3|map2win=2
+|map3=Midtown|map3score=0-1|map3win=2
+|map4=Colosseo|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=smurf
+|owl=39014
+|overgg=16167
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=cdh|games1=1
+|team2=hzs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 26, 2022 - 19:30 {{Abbr/CST}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|finished=true
+|map1=Oasis|map1score=2-1|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=1-2|map2win=2
+|map3=Eichenwalde|map3score=2-3|map3win=2
+|map4=New Queen Street|map4score=57.37-58.62|map4win=2
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Shy
+|owl=39026
+|overgg=16168
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=shd|games1=3
+|team2=gzc|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 26, 2022 - 21:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|finished=true
+|map1=Ilios|map1score=1-2|map1win=2
+|map2=Dorado|map2score=1-2|map2win=2
+|map3=Midtown|map3score=3-1|map3win=1
+|map4=Colosseo|map4score=59.88-54.83|map4win=1
+|map5=Lijiang Tower|map5score=2-0|map5win=1
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Fate
+|owl=39030
+|overgg=16169
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 27, 2022 - East
+|team1=cdh|games1=3
+|team2=phi|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 06:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|finished=true
+|map1=Colosseo|map1score=117.54-74.75|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=3-2|map2win=1
+|map3=Midtown|map3score=2-3|map3win=2
+|map4=Lijiang Tower|map4score=2-1|map4win=1
+|map5=New Queen Street|map5score=|map5win=
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Jinmu
+|owl=39022
+|overgg=16170
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=gzc|games1=0
+|team2=seo|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 20:30 {{Abbr/KST}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+|finished=true
+|map1=Oasis|map1score=1-2|map1win=2
+|map2=Circuit Royal|map2score=1-3|map2win=2
+|map3=King's Row|map3score=2-3|map3win=2
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Creative
+|owl=39019
+|overgg=16171
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=shd|games1=3
+|team2=val|games2=2
+|winner=1
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 06:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+|finished=true
+|map1=Oasis|map1score=2-0|map1win=1
+|map2=Route 66|map2score=2-3|map2win=2
+|map3=Midtown|map3score=3-4|map3win=2
+|map4=New Queen Street|map4score=140.00-41.71|map4win=1
+|map5=Ilios|map5score=2-1|map5win=1
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Fleta
+|owl=39020
+|overgg=16172
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 27, 2022 - West
+|team1=gla|games1=3
+|team2=ldn|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 20:00 {{Abbr/BST}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+|finished=true
+|map1=New Queen Street|map1score=41.68-79.87|map1win=2
+|map2=Dorado|map2score=3-2|map2win=1
+|map3=King's Row|map3score=3-2|map3win=1
+|map4=Oasis|map4score=2-0|map4win=1
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Kevster
+|owl=39002
+|overgg=15954
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=nye|games1=1
+|team2=tor|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+|finished=true
+|map1=Colosseo|map1score=55.47-55.48|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=2-1|map2win=1
+|map3=Midtown|map3score=2-3|map3win=2
+|map4=Ilios|map4score=1-2|map4win=2
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=HOTBA
+|owl=39003
+|overgg=15955
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=van|games1=1
+|team2=sfs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 27, 2022 - 15:00 {{Abbr/PDT}}
+|youtube=overwatchleague
+|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Reinforce|flag=se}}
+|finished=true
+|map1=Colosseo|map1score=49.86-82.68|map1win=2
+|map2=Circuit Royal|map2score=1-2|map2win=2
+|map3=Eichenwalde|map3score=1-0|map3win=1
+|map4=Lijiang Tower|map4score=0-2|map4win=2
+|map5=New Queen Street|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Proper
+|owl=39004
+|overgg=15956
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 28, 2022 - East
+|team1=hzs|games1=3
+|team2=gzc|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 18:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Lijiang Tower|map1score=2-1|map1win=1
+|map2=Circuit Royal|map2score=2-0|map2win=1
+|map3=Midtown|map3score=3-1|map3win=1
+|map4=New Queen Street|map4score=|map4win=skip
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=AlphaYi
+|owl=39021
+|overgg=16173
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=shd|games1=3
+|team2=cdh|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 19:30 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Lijiang Tower|map1score=2-0|map1win=1
+|map2=Circuit Royal|map2score=2-3|map2win=2
+|map3=King's Row|map3score=4-3|map3win=1
+|map4=Colosseo|map4score=114.35-31.89|map4win=1
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=LIP
+|owl=39013
+|overgg=16174
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=val|games1=1
+|team2=phi|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 09:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=2-0|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=0-3|map2win=2
+|map3=Eichenwalde|map3score=2-3|map3win=2
+|map4=New Queen Street|map4score=53.59-66.9|map4win=2
+|map5=Lijiang Tower|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=MN3
+|owl=39031
+|overgg=16175
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 28, 2022 - West
+|team1=atl|games1=2
+|team2=ldn|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 20:00 {{Abbr/BST}}
+|youtube=overwatchleague
+|finished=true
+|map1=New Queen Street|map1score=49.57-55.25|map1win=2
+|map2=Circuit Royal|map2score=3-2|map2win=1
+|map3=Midtown|map3score=1-2|map3win=2
+|map4=Ilios|map4score=2-0|map4win=1
+|map5=Colosseo|map5score=52.43-58.75|map5win=2
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Hadi
+|owl=39005
+|overgg=15957
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=par|games1=2
+|team2=hou|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 15:30 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Colosseo|map1score=108.32-105.11|map1win=1
+|map2=Route 66|map2score=3-2|map2win=1
+|map3=Eichenwalde|map3score=1-3|map3win=2
+|map4=Oasis|map4score=0-2|map4win=2
+|map5=New Queen Street|map5score=9.59-107.48|map5win=2
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Pelican
+|owl=39006
+|overgg=15958
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=fla|games1=3
+|team2=was|games2=1
+|winner=1
+|details={{BracketMatchSummary
+|date=May 28, 2022 - 18:00 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=New Queen Street|map1score=74.61-74.62|map1win=2
+|map2=Watchpoint: Gibraltar|map2score=2-1|map2win=1
+|map3=Midtown|map3score=4-3|map3win=1
+|map4=Ilios|map4score=2-0|map4win=1
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=SirMajed
+|owl=39007
+|overgg=15959
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 29, 2022 - East
+|team1=seo|games1=1
+|team2=shd|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 29, 2022 - 18:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Oasis|map1score=2-1|map1win=1
+|map2=Watchpoint: Gibraltar|map2score=0-1|map2win=2
+|map3=Eichenwalde|map3score=2-3|map3win=2
+|map4=Colosseo|map4score=70.80-70.81|map4win=2
+|map5=Ilios|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=WhoRU
+|owl=39024
+|overgg=16176
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=cdh|games1=1
+|team2=val|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 29, 2022 - 04:30 {{Abbr/PDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=Lijiang Tower|map1score=0-2|map1win=2
+|map2=Dorado|map2score=3-1|map2win=1
+|map3=Midtown|map3score=2-3|map3win=2
+|map4=New Queen Street|map4score=69.41-78.19|map4win=2
+|map5=Oasis|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Diya
+|owl=39018
+|overgg=16177
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=phi|games1=2
+|team2=hzs|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 29, 2022 - 21:00 {{Abbr/CST}}
+|youtube=overwatchleague
+|finished=true
+|map1=Ilios|map1score=2-1|map1win=1
+|map2=Route 66|map2score=5-6|map2win=2
+|map3=King's Row|map3score=1-2|map3win=2
+|map4=Colosseo|map4score=67.85-62.62|map4win=1
+|map5=Lijiang Tower|map5score=1-2|map5win=2
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=AlphaYi
+|owl=39023
+|overgg=16178
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|date=May 29, 2022 - West
+|team1=bos|games1=0
+|team2=dal|games2=3
+|winner=2
+|details={{BracketMatchSummary
+|date=May 29, 2022 - 14:00 {{Abbr/CDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=New Queen Street|map1score=41.00-78.10|map1win=2
+|map2=Dorado|map2score=2-3|map2win=2
+|map3=King's Row|map3score=0-3|map3win=2
+|map4=Oasis|map4score=|map4win=skip
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=ChiYo
+|owl=39008
+|overgg=15960
+|pf=
+|wl=
+}}
+}}
+{{MatchMaps
+|team1=gla|games1=3
+|team2=atl|games2=0
+|winner=1
+|details={{BracketMatchSummary
+|date=May 29, 2022 - 16:30 {{Abbr/EDT}}
+|youtube=overwatchleague
+|finished=true
+|map1=New Queen Street|map1score=107.86-55.20|map1win=1
+|map2=Circuit Royal|map2score=1-0|map2win=1
+|map3=King's Row|map3score=2-1|map3win=1
+|map4=Lijiang Tower|map4score=|map4win=skip
+|map5=Colosseo|map5score=|map5win=skip
+|vodgame1=
+|vodgame2=
+|vodgame3=
+|vodgame4=
+|mvp=Kevster
+|owl=39009
+|overgg=15961
+|pf=
+|wl=
+}}
+}}
+{{MatchListEnd}}
+<section end="Week 4"/>
+
+{{box|end}}
+{{Toggle group end}}

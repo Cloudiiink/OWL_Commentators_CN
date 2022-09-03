@@ -1,0 +1,1060 @@
+==Match Summary==
+{{Toggle group start|state=hide}}
+{{box|start|padding=4em}}
+====={{HiddenSort|Week 7}}=====
+<section begin="Week 7"/>
+{{Matchlist|id=e14IKxQdA4|title=Week 7 Matches - Played Online|width=400px
+|M1header=June 16, 2022 - West
+|M1={{Match
+    |bestof=5
+    |date=June 16, 2022 - 20:00 {{Abbr/BST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|fla}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=93.95m|score2=79.08m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Landon
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39161
+	|overgg=15962
+	|vod=https://youtu.be/98LnmGxgEu4
+}}
+|M2header=
+|M2={{Match
+    |date=June 16, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Proper
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Custa|flag=au}}
+	|owl=39162
+	|overgg=15963
+	|vod=https://youtu.be/eQ9QES8qEdk
+}}
+|M3header=
+|M3={{Match
+    |date=June 16, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=0|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=43.80m|score2=43.81m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Krillin
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Custa|flag=au}}
+	|owl=39163
+	|overgg=15964
+	|vod=https://youtu.be/_LhpIr9IRoU
+}}
+|M4header=June 17, 2022 - West
+|M4={{Match
+    |date=June 17, 2022 - 20:00 {{Abbr/BST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=76.86m|score2=128.10m|winner=2}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=SparkR
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Custa|flag=au}}
+	|owl=39164
+	|overgg=15967
+	|vod=https://youtu.be/tNePnwagYjc
+}}
+|M5header=
+|M5={{Match
+    |date=June 17, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|bos}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=68.40m|score2=111.67m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|mvp=Kai
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39165
+	|overgg=15968
+	|vod=https://youtu.be/8hBrRxyWrgY
+}}
+|M6header=
+|M6={{Match
+    |date=June 17, 2022 - 15:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Patiphan
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39166
+	|overgg=15969
+	|vod=https://youtu.be/_OJ23hEztTk
+}}
+|M7header=June 18, 2022 - West
+|M7={{Match
+    |date=June 18, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=50.52m|score2=53.55m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Reinforce|flag=se}}
+	|mvp=PIGGY
+	|owl=39167
+	|overgg=15973
+	|vod=https://youtu.be/_xmDC4KQK4I
+}}
+|M8header=
+|M8={{Match
+    |date=June 18, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|par}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=46.74m|score2=125.90m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=skewed
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39168
+	|overgg=15974
+	|vod=https://youtu.be/1M1jdrLm1Io
+}}
+|M9header=
+|M9={{Match
+    |date=June 18, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=6|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Venom
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39169
+	|overgg=15975
+	|vod=https://youtu.be/Sc3RJ7-udBQ
+}}
+|M10header=June 19, 2022 - West
+|M10={{Match
+    |date=June 19, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=23.26m|score2=139.48m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Hydron
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39170
+	|overgg=15978
+	|vod=https://youtu.be/7mZwztSf95s
+}}
+|M11header=
+|M11={{Match
+    |date=June 19, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Proper
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39171
+	|overgg=15979
+	|vod=https://youtu.be/25cN_harbMw
+}}
+|M12header=
+|M12={{Match
+    |date=June 20, 2022 - 00:00 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=4|score2=3|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=38.03m|score2=107.21m|winner=2}}
+    |map5={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Dove
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39172
+	|overgg=15980
+	|vod=https://youtu.be/Wb6l-wf65gg
+}}
+|M13header=
+|M13={{Match
+    |date=June 19, 2022 - 18:30 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Danteh
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39173
+	|overgg=15981
+	|vod=https://youtu.be/cR4IxLaqJ-Q
+}}
+}}
+<section end="Week 7"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 8}}=====
+<section begin="Week 8"/>
+{{Matchlist|id=owcAcXyBel|title=Week 8 Matches - Played Online|width=400px
+|M1header=June 24, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=June 24, 2022 - 03:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=4|score2=5|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=2.30m|score2=128.11m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Molly
+	|owl=39010
+	|overgg=16213
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|vod=https://youtu.be/MBIGCNFx8P8
+}}
+|M2header=
+|M2={{Match
+    |date=June 24, 2022 - 20:30 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=6|score2=5|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=84.81m|score2=84.80m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Profit
+	|owl=39111
+	|overgg=16214
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|vod=https://youtu.be/c_kAAPoicpo
+}}
+|M3header=June 24, 2022 - West
+|M3={{Match
+    |date=June 24, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=138.02m|score2=17.87m|winner=1}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=4|score2=3|winner=1}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=SparkR
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39174
+	|overgg=15984
+	|vod=https://www.youtube.com/watch?v=DcbjgeR2Gsw
+}}
+|M4header=
+|M4={{Match
+    |date=June 24, 2022 - 15:30 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|fla}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=57.33m|score2=122.97m|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map4={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=guriyo
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Jaws|flag=uk}}
+	|owl=39175
+	|overgg=15985
+	|vod=https://www.youtube.com/watch?v=fNDOvRcrrZM
+}}
+|M5header=
+|M5={{Match
+    |date=June 24, 2022 - 15:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=32.27m|score2=85.40m|winner=2}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Kai
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Jaws|flag=uk}}
+	|owl=39176
+	|overgg=15986
+	|vod=https://www.youtube.com/watch?v=xsehXO8c0go
+}}
+|M6header=June 25, 2022 - East
+|M6={{Match
+    |date=June 25, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=shy
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39112
+	|overgg=16215
+	|vod=https://www.youtube.com/watch?v=WLRC2l66GSU
+}}
+|M7header=
+|M7={{Match
+    |date=June 25, 2022 - 20:30 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=smurf
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39113
+	|overgg=16216
+	|vod=https://www.youtube.com/watch?v=pYuU66TeCNM
+}}
+|M8header=
+|M8={{Match
+    |date=June 25, 2022 - 21:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=4|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=55.37m|score2=89.36m|winner=2}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=JinMu
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39114
+	|overgg=16217
+	|vod=https://www.youtube.com/watch?v=yQXk8O9yk-8
+}}
+|M9header=June 25, 2022 - West
+|M9={{Match
+    |date=June 25, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=76.45m|score2=56.02m|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=MuZe
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Jaws|flag=uk}}
+	|owl=39177
+	|overgg=15990
+	|vod=https://www.youtube.com/watch?v=91xe8lxFmFQ
+}}
+|M10header=
+|M10={{Match
+    |date=June 25, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=17.04m|score2=128.00m|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=4|score2=3|winner=1}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Viol2t
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Jaws|flag=uk}}
+	|owl=39178
+	|overgg=15991
+	|vod=https://www.youtube.com/watch?v=A4a3JY0xiNo
+}}
+|M11header=
+|M11={{Match
+    |date=June 25, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=72.62m|score2=72.63m|winner=2}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Fearless
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39178
+	|overgg=15992
+	|vod=https://www.youtube.com/watch?v=A4a3JY0xiNo
+}}
+|M12header=June 26, 2022 - East
+|M12={{Match
+    |date=June 26, 2022 - 03:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=65.97m|score2=108.80m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Marve1
+	|comment=Casters: {{player|Tridd|flag=uk}} & {{player|AVRL|flag=nz}}
+	|owl=39115
+	|overgg=16218
+	|vod=https://www.youtube.com/watch?v=hti7fizDf5o&t=1s
+}}
+|M13header=
+|M13={{Match
+    |date=June 26, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=AlphaYi
+	|comment=Casters: {{player|Tridd|flag=uk}} & {{player|AVRL|flag=nz}}
+	|owl=39116
+	|overgg=16219
+	|vod=https://www.youtube.com/watch?v=A5NCvB06XGs
+}}
+|M14header=June 26, 2022 - West
+|M14={{Match
+    |date=June 26, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=82.68m|score2=82.69m|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=2|score2=0|winner=1}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Proper
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Jaws|flag=uk}}
+	|owl=39180
+	|overgg=15995
+	|vod=https://www.youtube.com/watch?v=4RNb5x_Sf1k
+}}
+|M15header=
+|M15={{Match
+    |date=June 26, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=75.11m|score2=105.02m|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Shu
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39181
+	|overgg=15996
+	|vod=https://www.youtube.com/watch?v=yhjDSUIsgu8
+}}
+|M16header=
+|M16={{Match
+    |date=June 26, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|par}}
+    |opponent2={{TeamOpponent|bos}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=57.18m|score2=67.62m|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Crimzo
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39182
+	|overgg=15997
+	|vod=https://www.youtube.com/watch?v=UOf8wQHVhVc
+}}
+}}
+{{MatchListEnd}}
+<section end="Week 8"/>
+
+{{Box|break|padding=4em}}
+
+====={{HiddenSort|Week 9}}=====
+<section begin="Week 9"/>
+{{Matchlist|id=4EXuI1uvuh|title=Week 9 Matches - Played Online|width=400px
+|M1header=July 1, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=July 1, 2022 - 06:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hzs}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=73.88m|score2=74.19m|winner=2}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=0|score2=2|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=75.68m|score2=79.90m|winner=2}}
+	|mvp=AimGod
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39117
+	|overgg=16220
+	|vod=https://www.youtube.com/watch?v=oghZazIawUo
+}}
+|M2header=
+|M2={{Match
+    |date=July 1, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=75.24m|score2=66.15m|winner=1}}
+    |map2={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=leave
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39118
+	|overgg=16221
+	|vod=https://www.youtube.com/watch?v=Vtv2C5KY8Ew
+}}
+|M3header=July 1, 2022 - West
+|M3={{Match
+    |date=July 1, 2022 - 21:00 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Backbone
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39183
+	|overgg=16000
+	|vod=https://www.youtube.com/watch?v=rVLdSGOzT-Q
+}}
+|M4header=
+|M4={{Match
+    |date=July 1, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128.00m|score2=49.55m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+	|mvp=MER1T
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39184
+	|overgg=16001
+	|vod=https://www.youtube.com/watch?v=Zok88pPCsGs
+}}
+|M5header=
+|M5={{Match
+    |date=July 1, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=94.08m|score2=43.75m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Patiphan
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39185
+	|overgg=16002
+	|vod=https://www.youtube.com/watch?v=lNrReAH_vg8
+}}
+|M6header=July 2, 2022 - East
+|M6={{Match
+    |date=July 2, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=120.89m|score2=109.40m|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=smurf
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39119
+	|overgg=16222
+	|vod=https://www.youtube.com/watch?v=5cM6idGSgnw
+}}
+|M7header=
+|M7={{Match
+    |date=July 2, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=87.45m|score2=109.43m|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=leave
+	|comment=Casters: {{player|LemonKiwi|flag=us}} & {{player|LEGDAY|flag=uk}}
+	|owl=39120
+	|overgg=16223
+	|vod=https://www.youtube.com/watch?v=xlhZdVAcslY
+}}
+|M8header=
+|M8={{Match
+    |date=July 2, 2022 - 09:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=64.08m|score2=46.71m|winner=1}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map4={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=LIP
+	|comment=Casters: {{player|LemonKiwi|flag=us}} & {{player|LEGDAY|flag=uk}}
+	|owl=39121
+	|overgg=16224
+	|vod=https://www.youtube.com/watch?v=hTFCmJ9PJiA
+}}
+|M9header=July 2, 2022 - West
+|M9={{Match
+    |date=July 2, 2022 - 12:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=4|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=FiNN
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39186
+	|overgg=16006
+	|vod=https://www.youtube.com/watch?v=3ksHQH5JmEU
+}}
+|M10header=
+|M10={{Match
+    |date=July 2, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=108.69m|score2=57.29m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Patiphan
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39187
+	|overgg=16007
+	|vod=https://www.youtube.com/watch?v=wNL_9c1AeFs
+}}
+|M11header=
+|M11={{Match
+    |date=July 3, 2022 - 00:00 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=124.40m|score2=82.51m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+	|mvp=Heesu
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39188
+	|overgg=16008
+	|vod=https://www.youtube.com/watch?v=RY_yxHH3v0o
+}}
+|M12header=July 3, 2022 - East
+|M12={{Match
+    |date=July 3, 2022 - 19:00 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hzs}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=51.97m|score2=77.99m|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Vindaim
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39122
+	|overgg=16225
+	|vod=https://www.youtube.com/watch?v=TDGayVBJE2g
+}}
+|M13header=
+|M13={{Match
+    |date=July 3, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|shd}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=33.12m|score2=140.00m|winner=2}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Fleta
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39123
+	|overgg=16226
+	|vod=https://www.youtube.com/watch?v=cfaeU4PV2Xg
+}}
+|M14header=July 3, 2022 - West
+|M14={{Match
+    |date=July 3, 2022 - 20:00 {{Abbr/BST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=84.24m|score2=84.23m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Hadi
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39189
+	|overgg=16011
+	|vod=https://www.youtube.com/watch?v=C0wmoLV2OFc
+}}
+|M15header=
+|M15={{Match
+    |date=July 3, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=64.56m|score2=64.55m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|mvp=Edison
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39190
+	|overgg=16012
+	|vod=https://www.youtube.com/watch?v=rc87x-eDqdo
+}}
+|M16header=
+|M16={{Match
+    |date=July 3, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=31.04m|score2=95.54m|winner=2}}
+    |map5={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Xzi
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39191
+	|overgg=16013
+	|vod=https://www.youtube.com/watch?v=Zg-MTpySEE8
+}}
+}}
+<section end="Week 9"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 10}}=====
+<section begin="Week 10"/>
+{{Matchlist|id=48RLBgDLIY|title=Week 10 Matches - Played Online|width=400px
+|M1header=July 8, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=July 8, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=119.14m|score2=25.53m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=MN3
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39124
+	|overgg=16227
+	|vod=https://www.youtube.com/watch?v=_OPW38o7Sr8
+}}
+|M2header=
+|M2={{Match
+    |date=July 8, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|shd}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=71.04m|score2=71.05m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=LIP
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39125
+	|overgg=16228
+	|vod=https://www.youtube.com/watch?v=x5G4HYZrTB0
+}}
+|M3header=July 8, 2022 - West
+|M3={{Match
+    |date=July 8, 2022 - 14:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=57.18m|score2=68.15m|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=4|score2=3|winner=1}}
+    |map4={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=82.52m|score2=82.53m|winner=2}}
+	|mvp=MER1T
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39192
+	|overgg=16014
+	|vod=https://www.youtube.com/watch?v=BmB3EMoOZ4M
+}}
+|M4header=
+|M4={{Match
+    |date=July 8, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=124.02m|score2=62.40m|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Proper
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39193
+	|overgg=16015
+	|vod=https://www.youtube.com/watch?v=xTtTFIB_enE
+}}
+|M5header=
+|M5={{Match
+    |date=July 8, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|par}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=16.95m|score2=140.00m|winner=2}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=0|score2=2|winner=2}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Hawk
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39194
+	|overgg=16016
+	|vod=https://www.youtube.com/watch?v=x3o5UGwQyTo
+}}
+|M6header=July 9, 2022 - East
+|M6={{Match
+    |date=July 9, 2022 - 03:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score20=|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=Route 66|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Stalk3r
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|LEGDAY|flag=uk}}
+	|owl=39126
+	|overgg=16229
+	|vod=https://www.youtube.com/watch?v=ZKX5CcQiVwY
+}}
+|M7header=
+|M7={{Match
+    |date=July 9, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hzs}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=AlphaYi
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|LEGDAY|flag=uk}}
+	|owl=39127
+	|overgg=16230
+	|vod=https://www.youtube.com/watch?v=Xl6BEmmtyaY
+}}
+|M8header=
+|M8={{Match
+    |date=July 9, 2022 - 21:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|shd}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Eichenwalde|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Fleta
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|LEGDAY|flag=uk}}
+	|owl=39128
+	|overgg=16231
+	|vod=https://www.youtube.com/watch?v=zPjLI4Cu2TE
+}}
+|M9header=July 9, 2022 - West
+|M9={{Match
+    |date=July 9, 2022 - 12:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=100.38m|score2=100.39m|winner=2}}
+    |map2={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=66.48m|score2=66.47m|winner=1}}
+	|mvp=Krillin
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39195
+	|overgg=16017
+	|vod=https://www.youtube.com/watch?v=nMGiyQmMzOU
+}}
+|M10header=
+|M10={{Match
+    |date=July 9, 2022 - 15:30 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Colosseo|mode=Push|score1=117.54m|score2=117.53m|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=4|score2=3|winner=1}}
+    |map4={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map5={{Map|map=New Queen Street|mode=Push|score1=57.59m|score2=102.26m|winner=2}}
+	|mvp=Pelican
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39196
+	|overgg=16018
+	|vod=https://www.youtube.com/watch?v=T_wcUHj6Diw
+}}
+|M11header=
+|M11={{Match
+    |date=July 9, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=108.19m|score2=54.15m|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Eichenwalde|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=kevster
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39197
+	|overgg=16019
+	|vod=https://www.youtube.com/watch?v=1-exo2uFATs
+}}
+|M12header=July 10, 2022 - East
+|M12={{Match
+    |date=July 10, 2022 - 06:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=62.52m|score2=65.25m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=MN3
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39129
+	|overgg=16232
+	|vod=https://www.youtube.com/watch?v=NGkxT0n4HlE
+}}
+|M13header=
+|M13={{Match
+    |date=July 10, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=King's Row|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=55.47m|score2=107.29m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Shy
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39130
+	|overgg=16233
+	|vod=https://www.youtube.com/watch?v=Dc33DdbtxhI
+}}
+|M14header=July 10, 2022 - West
+|M14={{Match
+    |date=July 10, 2022 - 14:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=57.18m|score2=94.94m|winner=2}}
+    |map2={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=King's Row|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Fearless
+	|comment=
+	|owl=39198
+	|overgg=16020
+	|vod=https://www.youtube.com/watch?v=VEZiqN7v7Lo
+}}
+|M15header=
+|M15={{Match
+    |date=July 10, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=New Queen Street|mode=Push|score1=84.42m|score2=49.29m|winner=1}}
+    |map2={{Map|map=Dorado|mode=Escort|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map5={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+	|mvp=Valentine
+	|comment=
+	|owl=39199
+	|overgg=16021
+	|vod=https://www.youtube.com/watch?v=Q6ZcDMEstFI
+}}
+}}
+<section end="Week 10"/>
+
+{{box|end}}
+{{Toggle group end}}

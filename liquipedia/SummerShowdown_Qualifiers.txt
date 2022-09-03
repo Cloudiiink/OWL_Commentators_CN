@@ -1,0 +1,1059 @@
+==Match Summary==
+{{Toggle group start|state=hide}}
+{{box|start|padding=4em}}
+====={{HiddenSort|Week 15}}=====
+<section begin="Week 15"/>
+{{Matchlist|id=CRX6YkLdmp|title=Week 15 Matches - Played Online|width=400px
+|M1header=August 11, 2022 - West
+|M1={{Match
+    |bestof=5
+    |date=August 11, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=57.12m|score2=86.32m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Checkmate
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39106
+	|overgg=16022
+	|vod=https://www.youtube.com/watch?v=YjY3vG-uXTU
+}}
+|M2header=
+|M2={{Match
+    |date=August 11, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=4|score2=5|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=50.40m|score2=128.11m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Yaki
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39107
+	|overgg=16023
+	|vod=https://www.youtube.com/watch?v=yrBDzIs84qk
+}}
+|M3header=
+|M3={{Match
+    |date=August 11, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Paraiso|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=82.91m|score2=82.90m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Edison
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39108
+	|overgg=16024
+	|vod=https://www.youtube.com/watch?v=lTVIQ2GuXEQ
+}}
+|M4header=August 12, 2022 - West
+|M4={{Match
+    |date=August 12, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraiso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=94.57m|score2=66.27m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Punk
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39109
+	|overgg=16025
+	|vod=https://www.youtube.com/watch?v=m1lhtKlSF14
+}}
+|M5header=
+|M5={{Match
+    |date=August 12, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=66.31m|score2=73.33m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Kilo
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39110
+	|overgg=16026
+	|vod=https://www.youtube.com/watch?v=8XP6Bz6k93I
+}}
+|M6header=
+|M6={{Match
+    |date=August 12, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=2|score2=0|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=126.04m|score2=51.87m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Heesu
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39201
+	|overgg=16027
+	|vod=https://www.youtube.com/watch?v=DaOLRNNRW20
+}}
+|M7header=August 13, 2022 - West
+|M7={{Match
+    |date=August 13, 2022 - 20:00 {{Abbr/BST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=4|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Admiral
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39202
+	|overgg=16028
+	|vod=https://www.youtube.com/watch?v=Yb0assJiREs
+}}
+|M8header=
+|M8={{Match
+    |date=August 13, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|par}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Decay
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39203
+	|overgg=16029
+	|vod=https://www.youtube.com/watch?v=f4Tkn_l9b7M
+}}
+|M9header=
+|M9={{Match
+    |date=August 13, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=4|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=77.92m|score2=77.91m|winner=1}}
+    |map5={{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=MER1T
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39204
+	|overgg=16030
+	|vod=https://www.youtube.com/watch?v=25yWTv_-cmU
+}}
+|M10header=August 14, 2022 - West
+|M10={{Match
+    |date=August 14, 2022 - 21:00 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Aspire
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39205
+	|overgg=16031
+	|vod=https://www.youtube.com/watch?v=vpvHA62wRB8
+}}
+|M11header=
+|M11={{Match
+    |date=August 14, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|fla}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=4|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Viol2t
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39206
+	|overgg=16032
+	|vod=https://www.youtube.com/watch?v=4ltnxmIwZJQ
+}}
+|M12header=
+|M12={{Match
+    |date=August 14, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=76.58m|score2=117.11m|winner=2}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Hanbin
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39207
+	|overgg=16033
+	|vod=https://www.youtube.com/watch?v=qI55BpICp1w
+}}
+|M13header=
+|M13={{Match
+    |date=August 14, 2022 - 19:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=90.94m|score2=76.60m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Twilight
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39208
+	|overgg=16034
+	|vod=https://www.youtube.com/watch?v=c4kmH1G-7OA
+}}
+}}
+<section end="Week 15"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 16}}=====
+<section begin="Week 16"/>
+{{Matchlist|id=wW5ic1i48S|title=Week 16 Matches - Played Online|width=400px
+|M1header=August 19, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=August 19, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=WhoRU
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39055
+	|overgg=16035
+	|vod=https://www.youtube.com/watch?v=15r8HIZqIuI
+}}
+|M2header=
+|M2={{Match
+    |date=August 19, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Stalk3r
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39056
+	|overgg=16036
+	|vod=https://www.youtube.com/watch?v=wPeJKDLp3OQ
+}}
+|M3header=August 19, 2022 - West
+|M3={{Match
+    |date=August 19, 2022 - 12:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=k1ng
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39209
+	|overgg=16037
+	|vod=https://www.youtube.com/watch?v=WJ-ZbOJQCZg
+}}
+|M4header=
+|M4={{Match
+    |date=August 19, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|bos}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Proper
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Mr X|flag=us}}
+	|owl=39210
+	|overgg=16038
+	|vod=https://www.youtube.com/watch?v=KjQ9SoOCpC8
+}}
+|M5header=
+|M5={{Match
+    |date=August 19, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=17.65m|score2=140.00m|winner=2}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Edison
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Mr X|flag=us}}
+	|owl=39211
+	|overgg=16039
+	|vod=https://www.youtube.com/watch?v=O56NzdSUWlA
+}}
+|M6header=August 20, 2022 - East
+|M6={{Match
+    |date=August 20, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=0|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Stalk3r
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39057
+	|overgg=16040
+	|vod=https://www.youtube.com/watch?v=7L_IoxIhjgU
+}}
+|M7header=
+|M7={{Match
+    |date=August 20, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=LIP
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39058
+	|overgg=16041
+	|vod=https://www.youtube.com/watch?v=ABvOrx-Lx0g
+}}
+|M8header=
+|M8={{Match
+    |date=August 20, 2022 - 09:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=77.21m|score2=53.40m|winner=1}}
+    |map5={{Map|map=Busan|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=ZEST
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39059
+	|overgg=16042
+	|vod=https://www.youtube.com/watch?v=eyOqneIx2l0
+}}
+|M9header=August 20, 2022 - West
+|M9={{Match
+    |date=August 20, 2022 - 14:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Backbone
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39212
+	|overgg=16043
+	|vod=https://www.youtube.com/watch?v=b9rpPCCgB2Y
+}}
+|M10header=
+|M10={{Match
+    |date=August 20, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=0|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=4|score2=3|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=56.72m|score2=55.98m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Viol2t
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39213
+	|overgg=16044
+	|vod=https://www.youtube.com/watch?v=9bAqnNqk89E
+}}
+|M11header=
+|M11={{Match
+    |date=August 20, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=[[Assassin (Korean player)|Assassin]]
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39214
+	|overgg=16045
+	|vod=https://www.youtube.com/watch?v=NlZc7Nh8KOE
+}}
+|M12header=August 21, 2022 - East
+|M12={{Match
+    |date=August 21, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=95.20m|score2=50.79m|winner=1}}
+    |map5={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Jimmy
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|Tridd|flag=uk}}
+	|owl=39060
+	|overgg=16046
+	|vod=https://www.youtube.com/watch?v=WCfTZ_B4wEI
+}}
+|M13header=
+|M13={{Match
+    |date=August 21, 2022 - 07:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Leave
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|Tridd|flag=uk}}
+	|owl=39241
+	|overgg=16047
+	|vod=https://www.youtube.com/watch?v=IOWntmTRtGI
+}}
+|M14header=August 21, 2022 - West
+|M14={{Match
+    |date=August 21, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|bos}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=109.83m|score2=66.32m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Sp9rk1e
+	|comment=Casters: {{player|LemonKiwi|flag=ca}} & {{player|LEGDAY|flag=uk}}
+	|owl=39215
+	|overgg=16048
+	|vod=https://www.youtube.com/watch?v=DKlWlYgFHwU
+}}
+|M15header=
+|M15={{Match
+    |date=August 21, 2022 - 22:30 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Kai
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39216
+	|overgg=16049
+	|vod=https://www.youtube.com/watch?v=wwMlRgTkoW8
+}}
+|M16header=
+|M16={{Match
+    |date=August 21, 2022 - 15:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=57.19m|score2=57.18m|winner=1}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=ALTHOUGH
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39217
+	|overgg=16050
+	|vod=https://www.youtube.com/watch?v=a5o8U7MvSXw
+}}
+}}
+<section end="Week 16"/>
+
+{{Box|break|padding=4em}}
+
+====={{HiddenSort|Week 17}}=====
+<section begin="Week 17"/>
+{{Matchlist|id=cLKIEbNbSX|title=Week 17 Matches - Played Online|width=400px
+|M1header=August 26, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=August 26, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=101.40m|score2=75.78m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=leave
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39242
+	|overgg=16051
+	|vod=https://www.youtube.com/watch?v=n_Ip5sieWco
+}}
+|M2header=
+|M2={{Match
+    |date=August 26, 2022 - 20:30 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|val}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Stalk3r
+	|comment=Casters: {{player|Achilios|flag=us}} & {{player|AVRL|flag=nz}}
+	|owl=39243
+	|overgg=16052
+	|vod=https://www.youtube.com/watch?v=1G5zoOs-U_M
+}}
+|M3header=August 26, 2022 - West
+|M3={{Match
+    |date=August 26, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|atl}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=4|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=50.15m|score2=140.00m|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Hawk
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39218
+	|overgg=16053
+	|vod=https://www.youtube.com/watch?v=13nTLF0Ahoc
+}}
+|M4header=
+|M4={{Match
+    |date=August 26, 2022 - 13:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|nye}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=Oasis|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Coluge
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39219
+	|overgg=16054
+	|vod=https://www.youtube.com/watch?v=rwtxiTOeBdw
+}}
+|M5header=
+|M5={{Match
+    |date=August 26, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=2|score2=1|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=1|score2=0|winner=1}}
+    |map5={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+	|mvp=K1ng
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39220
+	|overgg=16055
+	|vod=https://www.youtube.com/watch?v=Y6i39Mg8wis
+}}
+|M6header=August 27, 2022 - East
+|M6={{Match
+    |date=August 27, 2022 - 19:00 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=0|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=FITS
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|Tridd|flag=uk}}
+	|owl=39244
+	|overgg=16056
+	|vod=https://www.youtube.com/watch?v=TtAkMB4__Mw
+}}
+|M7header=
+|M7={{Match
+    |date=August 27, 2022 - 04:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hzs}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=4|score2=5|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128.00m|score2=48.44m|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Shy
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|Tridd|flag=uk}}
+	|owl=39245
+	|overgg=16057
+	|vod=https://www.youtube.com/watch?v=-RVL8xmnI6Q
+}}
+|M8header=
+|M8={{Match
+    |date=August 27, 2022 - 21:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|shd}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=49.78m|score2=138.03m|winner=2}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=LIP
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|Tridd|flag=uk}}
+	|owl=39246
+	|overgg=16058
+	|vod=https://www.youtube.com/watch?v=aHSJ2jqJE7U
+}}
+|M9header=August 27, 2022 - West
+|M9={{Match
+    |date=August 27, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|bos}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=ALTHOUGH
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39221
+	|overgg=16059
+	|vod=https://www.youtube.com/watch?v=fOAX61WUzhQ
+}}
+|M10header=
+|M10={{Match
+    |date=August 27, 2022 - 22:30 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gla}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Kevster
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39222
+	|overgg=16060
+	|vod=https://www.youtube.com/watch?v=eBwnii1ASgc
+}}
+|M11header=
+|M11={{Match
+    |date=August 27, 2022 - 15:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Pelican
+	|comment=Casters: {{player|Jaws|flag=uk}} & {{player|Nekkra|flag=us}}
+	|owl=39223
+	|overgg=16061
+	|vod=https://www.youtube.com/watch?v=ue_TX0y3Gtk
+}}
+|M12header=August 28, 2022 - East
+|M12={{Match
+    |date=August 28, 2022 - 06:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Nepal|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=123.00|score2=42.79|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|mvp=Jimmy
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|LEGDAY|flag=uk}}
+	|owl=39247
+	|overgg=16062
+	|vod=
+}}
+|M13header=
+|M13={{Match
+    |date=August 28, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=0|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=4|score2=3|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=WhoRU
+	|comment=Casters: {{player|AVRL|flag=nz}} & {{player|LEGDAY|flag=uk}}
+	|owl=39248
+	|overgg=16063
+	|vod=
+}}
+|M14header=August 28, 2022 - West
+|M14={{Match
+    |date=August 28, 2022 - 12:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=4|score2=5|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=115.35m|score2=60.57|winner=1}}
+    |map5={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Decay
+	|comment=Casters: {{player|Uber|flag=au}} & {{player|Mr X|flag=us}}
+	|owl=39224
+	|overgg=16064
+	|vod=
+}}
+|M15header=
+|M15={{Match
+    |date=August 28, 2022 - 14:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=110.53|score2=84.16|winner=1}}
+    |map5={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+	|mvp=Danteh
+	|comment=
+	|owl=39225
+	|overgg=16065
+	|vod=
+}}
+|M16header=
+|M16={{Match
+    |date=August 28, 2022 - 16:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128.11m|score2=15.97m|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Hanbin
+	|comment=
+	|owl=39226
+	|overgg=16066
+	|vod=
+}}
+}}
+<section end="Week 17"/>
+
+{{box|break|padding=4em}}
+
+====={{HiddenSort|Week 18}}=====
+<section begin="Week 18"/>
+{{Matchlist|id=PiDMNKiawk|title=Week 18 Matches - Played Online|width=400px
+|M1header=September 2, 2022 - East
+|M1={{Match
+    |bestof=5
+    |date=September 2, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|cdh}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=4|score2=3|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=ChoiSehwan
+	|comment=
+	|owl=39249
+	|overgg=
+	|vod=
+}}
+|M2header=
+|M2={{Match
+    |date=September 2, 2022 - 04:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=WhoRU
+	|comment=
+	|owl=39250
+	|overgg=
+	|vod=
+}}
+|M3header=September 2, 2022 - West
+|M3={{Match
+    |date=September 2, 2022 - 12:00 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|atl}}
+    |opponent2={{TeamOpponent|gla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=Skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=Skip}}
+	|mvp=Happy
+	|comment=
+	|owl=39227
+	|overgg=
+	|vod=
+}}
+|M4header=
+|M4={{Match
+    |date=September 2, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|par}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=66.42|score2=83.07|winner=2}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Yaki
+	|comment=
+	|owl=39228
+	|overgg=
+	|vod=
+}}
+|M5header=
+|M5={{Match
+    |date=September 2, 2022 - 17:00 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|dal}}
+    |map1={{Map|map=Ilios|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=55.62|score2=128.11|winner=2}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Edison
+	|comment=
+	|owl=39229
+	|overgg=
+	|vod=
+}}
+|M6header=September 3, 2022 - East
+|M6={{Match
+    |date=September 3, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|hzs}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39251
+	|overgg=
+	|vod=
+}}
+|M7header=
+|M7={{Match
+    |date=September 3, 2022 - 04:30 {{Abbr/PDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|cdh}}
+    |opponent2={{TeamOpponent|val}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39252
+	|overgg=
+	|vod=
+}}
+|M8header=
+|M8={{Match
+    |date=September 3, 2022 - 22:00 {{Abbr/KST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39253
+	|overgg=
+	|vod=
+}}
+|M9header=September 3, 2022 - West
+|M9={{Match
+    |date=September 3, 2022 - 21:00 {{Abbr/CEST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|fla}}
+    |opponent2={{TeamOpponent|par}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39230
+	|overgg=
+	|vod=
+}}
+|M10header=
+|M10={{Match
+    |date=September 3, 2022 - 15:30 {{Abbr/CDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39231
+	|overgg=
+	|vod=
+}}
+|M11header=
+|M11={{Match
+    |date=September 3, 2022 - 18:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|bos}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39232
+	|overgg=
+	|vod=
+}}
+|M12header=September 4, 2022 - East
+|M12={{Match
+    |date=September 4, 2022 - 18:00 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|phi}}
+    |opponent2={{TeamOpponent|hzs}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39254
+	|overgg=
+	|vod=
+}}
+|M13header=
+|M13={{Match
+    |date=September 4, 2022 - 19:30 {{Abbr/CST}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|shd}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39255
+	|overgg=
+	|vod=
+}}
+|M14header=September 4, 2022 - West
+|M14={{Match
+    |date=September 4, 2022 - 15:00 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39233
+	|overgg=
+	|vod=
+}}
+|M15header=
+|M15={{Match
+    |date=September 4, 2022 - 16:30 {{Abbr/EDT}}
+    |youtube=overwatchleague
+    |opponent1={{TeamOpponent|fla}}
+    |opponent2={{TeamOpponent|nye}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39234
+	|overgg=
+	|vod=
+}}
+}}
+<section end="Week 18"/>
+
+{{box|end}}
+{{Toggle group end}}
