@@ -888,12 +888,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|hzs}}
     |opponent2={{TeamOpponent|gzc}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=83.25|score2=128.11|winner=2}}
+    |map5={{Map|map=Busan|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=ChoiSehwan
 	|comment=
 	|owl=39251
 	|overgg=
@@ -905,12 +905,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|cdh}}
     |opponent2={{TeamOpponent|val}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=4|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=86.97|score2=86.98|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Ezhan
 	|comment=
 	|owl=39252
 	|overgg=
@@ -922,12 +922,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|phi}}
     |opponent2={{TeamOpponent|seo}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=62.31|score2=114.38|winner=2}}
+    |map5={{Map|map=Busan|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Stalk3r
 	|comment=
 	|owl=39253
 	|overgg=
@@ -939,12 +939,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|fla}}
     |opponent2={{TeamOpponent|par}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=SirMajed
 	|comment=
 	|owl=39230
 	|overgg=
@@ -956,12 +956,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|was}}
     |opponent2={{TeamOpponent|hou}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Busan|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraiso|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Lastro
 	|comment=
 	|owl=39231
 	|overgg=
@@ -969,16 +969,16 @@
 }}
 |M11header=
 |M11={{Match
-    |date=September 3, 2022 - 18:00 {{Abbr/EDT}}
+    |date=September 3, 2022 - 17:30 {{Abbr/EDT}}
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|van}}
     |opponent2={{TeamOpponent|bos}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=91.73|score2=140|winner=2}}
+    |map5={{Map|map=Nepal|mode=Control|score1=1|score2=2|winner=2}}
+	|mvp=Seeker
 	|comment=
 	|owl=39232
 	|overgg=
@@ -990,12 +990,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|phi}}
     |opponent2={{TeamOpponent|hzs}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=0|score2=1|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=0|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=82.30|score2=79.04|winner=1}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=ZEST
 	|comment=
 	|owl=39254
 	|overgg=
@@ -1007,12 +1007,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|seo}}
     |opponent2={{TeamOpponent|shd}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=2|winner=2}}
+    |map3={{Map|map=Watchpoint: Gibraltar|mode=Escort|score1=5|score2=6|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Oasis|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=LIP
 	|comment=
 	|owl=39255
 	|overgg=
@@ -1024,12 +1024,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|ldn}}
     |opponent2={{TeamOpponent|tor}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=5|score2=4|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=112.19m|score2=71.82m|winner=1}}
+    |map5={{Map|map=Nepal|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=SparkR
 	|comment=
 	|owl=39233
 	|overgg=
@@ -1041,12 +1041,12 @@
     |youtube=overwatchleague
     |opponent1={{TeamOpponent|fla}}
     |opponent2={{TeamOpponent|nye}}
-    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
-    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
-    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
-    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
-    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
-	|mvp=
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Junkertown|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=|score2=|winner=skip}}
+    |map5={{Map|map=Ilios|mode=Control|score1=|score2=|winner=skip}}
+	|mvp=Hydron
 	|comment=
 	|owl=39234
 	|overgg=

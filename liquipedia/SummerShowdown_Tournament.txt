@@ -1,0 +1,363 @@
+==Brackets==
+{{box|start|padding=2em}}
+===West===
+{{Bracket|Bracket/8U4L2DSL1D|id=cUmGujRVnr
+
+<!-- Upper Bracket Quarter-Finals -->
+|R1M1={{Match
+    |bestof=5
+|date=September 8, 2022 - 18:00 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|was}}
+    |map1={{Map|map=Ilios|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraiso|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128m|score2=44.17m|winner=1}}
+    |map5={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+	|mvp=Hanbin
+	|comment=
+	|owl=39261
+	|overgg=16458
+	|vod=https://www.youtube.com/watch?v=Mv3cMPhTQ1E
+}}
+|R1M2={{Match
+|date=September 8, 2022 - 20:15 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|tor}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Ilios|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=2|score2=3|winner=2}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=1|score2=2|winner=2}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=33.32m|score2=135.31m|winner=2}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=SparkR
+	|comment=
+	|owl=39262
+	|overgg=16459
+	|vod=https://www.youtube.com/watch?v=NOoxdLBqKYA
+}}
+|R1M3={{Match
+|date=September 8, 2022 - 22:00 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|van}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=88.60m|score2=88.59m|winner=1}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=Kilo
+	|comment=
+	|owl=39263
+	|overgg=16460
+	|vod=https://www.youtube.com/watch?v=t7CB4bFewXo
+}}
+|R1M4={{Match
+|date=September 8, 2022 - 23:30 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Busan|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=1|winner=1}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=Pelican
+	|comment=
+	|owl=39264
+	|overgg=16461
+	|vod=https://www.youtube.com/watch?v=7cZPKtqUpv4
+}}
+
+<!-- Upper Bracket Semi-Finals -->
+|R2M1={{Match
+    |date=September 9, 2022 - 18:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|ldn}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=1|score2=0|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=121.71m|score2=67.34m|winner=1}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=Sp9rk1e
+	|comment=
+	|owl=39265
+	|overgg=16470
+	|vod=https://www.youtube.com/watch?v=r0cMRrOy8uw
+}}
+|R2M2={{Match
+    |date=September 9, 2022 - 19:45 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|sfs}}
+    |opponent2={{TeamOpponent|hou}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=5|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=1|winner=1}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=128m|score2=32.78m|winner=1}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}	
+	|mvp=Proper
+	|comment=
+	|owl=39273
+	|overgg=16471
+	|vod=https://www.youtube.com/watch?v=mpg9bcY9ggA
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |date=September 10, 2022 - 21:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|dal}}
+    |opponent2={{TeamOpponent|sfs}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39267
+	|overgg=16476
+	|vod=
+}}
+
+<!-- Lower Round 1 -->
+|R1M5={{Match
+    |date=September 9, 2022 - 23:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|was}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=3|score2=4|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=Colosseo|mode=Push|score1=38.24m|score2=113.22m|winner=2}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=ALTHOUGH
+	|comment=
+	|owl=39271
+	|overgg=16472
+	|vod=
+}}
+|R1M6={{Match
+    |date=September 9, 2022 - 21:35 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|van}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=1|score2=2|winner=2}}
+    |map2={{Map|map=Paraíso|mode=Hybrid|score1=4|score2=5|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=Checkmate
+	|comment=
+	|owl=39274
+	|overgg=16473
+	|vod=
+}}
+
+<!-- Lower Bracket Quarter-Finals -->
+|R2M3={{Match
+    |date=September 10, 2022 - 18:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+	|opponent1={{TeamOpponent|hou}}
+    |opponent2={{TeamOpponent|tor}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39272
+	|overgg=16477
+	|vod=
+}}
+|R2M4={{Match
+    |date=September 10, 2022 - 19:30 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|ldn}}
+    |opponent2={{TeamOpponent|fla}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=39269
+	|overgg=16478
+	|vod=
+}}
+
+<!-- Lower Bracket Semi-Finals -->
+|R3M1={{Match
+    |date=September 10, 2022 - 22:30 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=
+	|overgg=
+	|vod=
+}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |date=September 11, 2022 - 18:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=
+	|overgg=
+	|vod=
+}}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |bestof=7
+    |date=September 11, 2022 - 20:00 {{Abbr/UTC}}
+	|youtube=overwatchleague
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |map1={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|map6={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map7={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=
+	|overgg=
+	|vod=
+}}
+}}
+
+{{box|break|padding=2em}}
+
+===East===
+{{Bracket|Bracket/4U2L1D|id=d3qhdEtHTS
+
+<!-- Upper Bracket Semi-Finals -->
+|R1M1={{Match
+    |bestof=5
+|date=September 9, 2022 - 10:00 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|gzc}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Midtown|mode=Hybrid|score1=3|score2=1|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=5|score2=4|winner=1}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=WhoRU
+	|comment=
+	|owl=39281
+	|overgg=16462
+	|vod=https://www.youtube.com/watch?v=5ki8kqBoOSc
+}}
+|R1M2={{Match
+|date=September 9, 2022 - 11:30 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|seo}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Nepal|mode=Control|score1=2|score2=0|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=0|score2=1|winner=2}}
+    |map4={{Map|map=New Queen Street|mode=Push|score1=51.44|score2=76.73|winner=2}}
+    |map5={{Map|map=Oasis|mode=Control|score1=2|score2=0|winner=1}}
+	|mvp=Stalk3r
+	|comment=
+	|owl=39282
+	|overgg=16463
+	|vod=https://www.youtube.com/watch?v=5ki8kqBoOSc
+}}
+
+<!-- Upper Bracket Final -->
+|R2M1={{Match
+|date=September 10, 2022 - 11:25 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|shd}}
+    |opponent2={{TeamOpponent|seo}}
+    |map1={{Map|map=Oasis|mode=Control|score1=2|score2=1|winner=1}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=3|score2=2|winner=1}}
+    |map3={{Map|map=Dorado|mode=Escort|score1=3|score2=2|winner=1}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=LIP
+	|comment=
+	|owl=39283
+	|overgg=16474
+	|vod=
+}}
+
+<!-- Lower Bracket Semi-Finals -->
+|R1M3={{Match
+|date=September 10, 2022 - 10:00 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|gzc}}
+    |opponent2={{TeamOpponent|phi}}
+    |map1={{Map|map=Lijiang Tower|mode=Control|score1=0|score2=2|winner=2}}
+    |map2={{Map|map=Hollywood|mode=Hybrid|score1=1|score2=3|winner=2}}
+    |map3={{Map|map=Circuit Royal|mode=Escort|score1=2|score2=3|winner=2}}
+    |map4={{Map|map=|mode=|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=|score1=|score2=|winner=}}
+	|mvp=MN3
+	|comment=
+	|owl=39286
+	|overgg=16475
+	|vod=
+}}
+
+<!-- Lower Bracket Final -->
+|R2M2={{Match
+|date=September 11, 2022 - 10:00 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=
+	|overgg=
+	|vod=
+}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+|date=September 11, 2022 - 11:30 {{Abbr/UTC}}
+|youtube=overwatchleague
+    |opponent1={{TeamOpponent|}}
+    |opponent2={{TeamOpponent|}}
+    |map1={{Map|map=|mode=Control|score1=|score2=|winner=}}
+    |map2={{Map|map=|mode=Hybrid|score1=|score2=|winner=}}
+    |map3={{Map|map=|mode=Escort|score1=|score2=|winner=}}
+    |map4={{Map|map=|mode=Push|score1=|score2=|winner=}}
+    |map5={{Map|map=|mode=Control|score1=|score2=|winner=}}
+	|mvp=
+	|comment=
+	|owl=
+	|overgg=
+	|vod=
+}}
+}}
+{{box|end|padding=2em}}
